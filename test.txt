@@ -1,2 +1,3 @@
 Version 1 text
 Version 2 text
+VERSION 3 TEXT
