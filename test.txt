@@ -1,3 +1,4 @@
 Version 1 text
 Version 1.1 text
 VERSION 1.2 TEXT
+version 2 text
